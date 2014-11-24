@@ -1,0 +1,9 @@
+E:\Code\Jonce\Jonce\bin\Debug\Jonce.exe
+E:\Code\Jonce\Jonce\bin\Debug\Jonce.pdb
+E:\Code\Jonce\Jonce\obj\Debug\Jonce.csprojResolveAssemblyReference.cache
+E:\Code\Jonce\Jonce\obj\Debug\Jonce.Form1.resources
+E:\Code\Jonce\Jonce\obj\Debug\Jonce.Properties.Resources.resources
+E:\Code\Jonce\Jonce\obj\Debug\Jonce.csproj.GenerateResource.Cache
+E:\Code\Jonce\Jonce\obj\Debug\Jonce.exe
+E:\Code\Jonce\Jonce\obj\Debug\Jonce.pdb
+E:\Code\Jonce\Jonce\bin\Debug\Jonce.exe.config

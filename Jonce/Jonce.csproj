@@ -83,6 +83,10 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\Jonce.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\Jonce.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\Jonce.Form1.resources" />
+    <EmbeddedResource Include="obj\Release\Jonce.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -94,6 +98,21 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
+    <None Include="bin\Debug\Jonce.exe.config" />
+    <None Include="bin\Debug\Jonce.vshost.exe.config" />
+    <None Include="bin\Debug\Jonce.vshost.exe.manifest" />
+    <None Include="bin\Release\Jonce.exe.config" />
+    <None Include="bin\Release\Jonce.vshost.exe.config" />
+    <None Include="bin\Release\Jonce.vshost.exe.manifest" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Jonce.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\Jonce.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Release\build.force" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\Jonce.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\Jonce.csprojResolveAssemblyReference.cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -129,6 +148,30 @@
   <ItemGroup>
     <Content Include="20141012115752343_easyicon_net_128.ico" />
     <Content Include="20141013120130438_easyicon_net_128.ico" />
+    <Content Include="bin\Debug\DevComponents.TreeGX.dll" />
+    <Content Include="bin\Debug\DevExpress.Data.v13.1.dll" />
+    <Content Include="bin\Debug\DevExpress.Utils.v13.1.dll" />
+    <Content Include="bin\Debug\DevExpress.XtraEditors.v13.1.dll" />
+    <Content Include="bin\Debug\Jonce.exe" />
+    <Content Include="bin\Debug\Jonce.instr.pdb" />
+    <Content Include="bin\Debug\Jonce.pdb" />
+    <Content Include="bin\Debug\Jonce.vshost.exe" />
+    <Content Include="bin\Release\DevComponents.TreeGX.dll" />
+    <Content Include="bin\Release\DevExpress.Data.v13.1.dll" />
+    <Content Include="bin\Release\DevExpress.Utils.v13.1.dll" />
+    <Content Include="bin\Release\DevExpress.XtraEditors.v13.1.dll" />
+    <Content Include="bin\Release\Jonce.exe" />
+    <Content Include="bin\Release\Jonce.pdb" />
+    <Content Include="bin\Release\Jonce.vshost.exe" />
+    <Content Include="obj\Debug\Jonce.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Jonce.exe" />
+    <Content Include="obj\Debug\Jonce.instr.pdb" />
+    <Content Include="obj\Debug\Jonce.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\Jonce.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\Jonce.exe" />
+    <Content Include="obj\Release\Jonce.pdb" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
